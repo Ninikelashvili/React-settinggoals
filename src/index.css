@@ -1,0 +1,28 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  list-style: none;
+}
+html, body{
+  height: 100%;
+  background-color: #eed6ff;
+}
+.css-1s2u09g-control, .css-1pahdxg-control {
+  width: 150px;
+  border: none;
+  padding: 9px;
+  outline: none;
+  margin: 0 0 0 10px;
+  font-family: system-ui;
+  font-weight: 100;
+}
+
+.css-1pahdxg-control:hover{
+  border: none;
+}
+.completed{
+  opacity: 0.5;
+  text-decoration: line-through;
+}
